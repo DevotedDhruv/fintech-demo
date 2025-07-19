@@ -1,1 +1,1 @@
-# fintech-demo
+# fintech-app-alpha
